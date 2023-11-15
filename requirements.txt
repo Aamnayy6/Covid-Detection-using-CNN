@@ -1,6 +1,6 @@
 numpy
+tensorflow
 Flask
 Jinja2
-Werkzeug
-tensorflow
 keras
+Werkzeug

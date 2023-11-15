@@ -4,7 +4,7 @@ from flask import  Flask,render_template, jsonify, request
 import pickle
 app = Flask(__name__)
 from keras.models import load_model
-model = load_model("C://Users//hp//Downloads//model.h5")
+model = load_model("./model.h5")
 @app.route('/')
 def home():
     return render_template('./index.html')
