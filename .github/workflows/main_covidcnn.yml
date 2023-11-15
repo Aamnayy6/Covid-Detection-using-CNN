@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'CovidCNN'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_873501F22FC2471DB600910B46AE7745 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_685AE104223546C28A46B3E59BF22D60 }}
