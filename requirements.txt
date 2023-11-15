@@ -1,0 +1,6 @@
+numpy
+Flask
+Jinja2
+Werkzeug
+tensorflow
+keras
