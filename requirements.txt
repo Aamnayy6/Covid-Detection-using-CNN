@@ -1,6 +1,6 @@
-numpy
 tensorflow
-Flask
-Jinja2
 keras
-Werkzeug
+Flask==1.1.1
+Jinja2==2.10.1
+Werkzeug==0.15.5
+numpy>=1.9.2
